@@ -23,7 +23,8 @@
 ## 📸 Platform Preview
 
 <div align="center">
-  <img alt="ParkEase Live Matrix Booked Slot" width="100%" style="border-radius: 12px; border: 1px solid #3b82f6; box-shadow: 0 0 20px rgba(59, 130, 246, 0.3);" src="https://github.com/user-attachments/assets/9c32dbb3-5083-41f6-a77c-b49d26241d6c" />
+  <img alt="ParkEase Live Matrix Booked Slot" width="100%" style="border-radius: 12px; border: 1px solid #3b82f6; box-shadow: 0 0 20px rgba(59, 130, 246, 0.3);" src="https://github.com/user-attachments/assets/ac1e86a0-6adf-442e-9197-0c4ae80af632" />
+
   <p><i>The Live Matrix: Real-time synchronization of on-chain data.</i></p>
 </div>
 
