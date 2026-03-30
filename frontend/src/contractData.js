@@ -1,7 +1,7 @@
 
 // Contract Address
-export const contractAddress = "--YOUR-CONTRACT-ADDRESS-HERE";
+export const contractAddress = "" // Paste your contract address here...
 
 export const contractABI = [
-    --YOUR-AIB-DATA-HERE---
+    // Paste your entire ABI array here...
 ];
